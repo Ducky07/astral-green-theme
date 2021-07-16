@@ -1,0 +1,27 @@
+{
+    "name": "astral-green",
+    "displayName": "Astral Green",
+    "description": "Astral Green theme by Ducky07 on Github",
+    "version": "1.0.0",
+    "publisher": "JackValley",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ducky07/astral-green-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astral Green 🪐",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Astral Green 🪐-color-theme.json"
+            }
+        ]
+    }
+}
