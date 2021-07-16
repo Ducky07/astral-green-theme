@@ -2,13 +2,14 @@
     "name": "astral-green",
     "displayName": "Astral Green",
     "description": "Astral Green theme by Ducky07 on Github",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "JackValley",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/Ducky07/astral-green-theme.git"
     },
+    "icon": "./icon/vsc-icon.png",
     "keywords": [
         "theme",
         "dark theme",
