@@ -9,6 +9,14 @@
         "type": "git",
         "url": "https://github.com/Ducky07/astral-green-theme.git"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "astral",
+        "green",
+        "green theme",
+        "ducky07"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },
