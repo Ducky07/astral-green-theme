@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/Ducky07/astral-green-theme.git"
     },
-    "icon": "./icon/vsc-icon.png",
+    "icon": "icon/vsc-icon.png",
     "keywords": [
         "theme",
         "dark theme",
