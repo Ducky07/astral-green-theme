@@ -1,5 +1,5 @@
 # Astral Green 🪐
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jackvalley.astral-green?logo=Visual%20Studio%20Code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=JackValley.astral-green)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jackvalley.astral-green?cacheSeconds=3600?logo=Visual%20Studio%20Code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=JackValley.astral-green)
 
 ![Preview image of theme](https://raw.githubusercontent.com/Ducky07/astral-green-theme/main/images/example.png)
 
